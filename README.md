@@ -77,4 +77,4 @@ This will create a `dist/` folder with the production build files.
 
 ## Project Live Link
 
-The project is live and accessible at: [Netlify Deployed Link](#)
+The project is live and accessible at: [Netlify Deployed Link](https://inspiring-folks.netlify.app/)
